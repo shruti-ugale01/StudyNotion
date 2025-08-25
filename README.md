@@ -14,5 +14,14 @@ Future Enhancements: The list of potential future enhancements to the platform, 
 
 <img width="845" height="367" alt="image" src="https://github.com/user-attachments/assets/533f84cd-266f-4c76-926d-942b839a9bfe" />
 
+Data Models and Database Schema:
+The back end of StudyNotion uses a range of data models and database schemas to manage data, including:
+Student schema: Includes fields such as name, email, password, and course details for each student.
+Instructor schema: Includes fields such as name, email, password, and course details for each instructor.
+Course schema: Includes fields such as course name, description, instructor details, and media content.
+
+<img width="711" height="380" alt="image" src="https://github.com/user-attachments/assets/ccf75aeb-bec3-4399-ac79-75f8dadfd101" />
+
+
 project Description Document: https://docs.google.com/document/d/1wSxEGr8udGEeo6bvRIzZXWooG4lxUcmHfSEffE0Z3jI/edit?usp=sharing
 
