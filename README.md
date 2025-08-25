@@ -24,7 +24,8 @@ Course schema: Includes fields such as course name, description, instructor deta
 
 Future Enhancements:
 This section discusses potential future improvements to the StudyNotion platform. These enhancements are listed along with an explanation of how they would improve the platform and priority for implementation.
-Gamification features: Adding gamification features such as badges, points, and leaderboards can increase user engagement and motivation. This would be a medium-priority enhancement.
+
+1.Gamification features: Adding gamification features such as badges, points, and leaderboards can increase user engagement and motivation. This would be a    medium-   priority enhancement.
 Personalized learning paths: Creating personalized learning paths for each student based on their interests and learning style can increase student satisfaction and success. This would be a high-priority enhancement.
 Social learning features: Adding social learning features such as group discussions, peer-to-peer feedback, and collaborative projects can increase student engagement and interaction. This would be a medium-priority enhancement.
 Mobile app: Creating a mobile app for the platform would allow for more convenient access to course content and features, and would increase the platform's reach. This would be a high-priority enhancement.
