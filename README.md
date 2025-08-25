@@ -9,12 +9,7 @@ Deployment: The description of the deployment process, hosting environment and i
 Testing: The description of the testing process, types of testing, test frameworks and tools used.
 Future Enhancements: The list of potential future enhancements to the platform, explanation of how these enhancements would improve the platform, estimated timeline and priority for implementing these enhancements.
 
-
-
-<img width="674" height="961" alt="image" src="https://github.com/user-attachments/assets/630721d0-58a5-485d-bf10-5017202c2aa8" />
-
-
-
+<img width="845" height="367" alt="image" src="https://github.com/user-attachments/assets/533f84cd-266f-4c76-926d-942b839a9bfe" />
 
 project Description Document: https://docs.google.com/document/d/1wSxEGr8udGEeo6bvRIzZXWooG4lxUcmHfSEffE0Z3jI/edit?usp=sharing
 
